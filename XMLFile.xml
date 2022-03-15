@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>1.png</ImageUrl>
+    <NavigateUrl>https://www.apple.com/iphone-13-pro/</NavigateUrl>
+    <AlternateText>
+      Order different brands of Mobiles here…
+    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>Mobile</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>2.jpg</ImageUrl>
+    <NavigateUrl>https://www.apple.com/macbook-pro/</NavigateUrl>
+    <AlternateText>
+      Order different brands of Laptops here…
+    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>LAPTOP</Keyword>
+  </Ad>
+</Advertisements>
+
+
+
